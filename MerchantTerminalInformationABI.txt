@@ -1,0 +1,82 @@
+NAME:MID:TID:DATE:EMAIL ADD
+All Home Salawag:869982110100016:02100001:26-Jul-22:tangentreports@tangentsolutionsinc.com
+Allhome Sta. Maria:869982110100016:02100002:1-Aug-22:tangentreports@tangentsolutionsinc.com
+Allhome Silang:869982110100016:02100003:1-Aug-22:tangentreports@tangentsolutionsinc.com
+AllHome Bacolod:869982110100016:02100004:18-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Butuan:869982110100016:02100005:17-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Cabanatuan:869982110100016:02100006:18-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Cauayan:869982110100016:02100007:18-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome CDO:869982110100016:02100008:20-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Gapan:869982110100016:02100009:20-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Gensan:869982110100016:02100010:19-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Iloilo:869982110100016:02100011:17-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Koronadal:869982110100016:02100012:21-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Libis:869982110100016:02100013:14-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Mintal:869982110100016:02100014:19-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Naga:869982110100016:02100015:18-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome San Ildefonso:869982110100016:02100016:19-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Santiago:869982110100016:02100017:17-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Sto Tomas:869982110100016:02100018:20-Oct-22:tangentreports@tangentsolutionsinc.com
+AllHome Agro:869982110100016:02100019:3-Feb-22:tangentreports@tangentsolutionsinc.com
+UBX - All Remit Money Svcs:869982110100016:02100021:1-Dec-23:tangentreports@tangentsolutionsinc.com
+UBX - Gane Liason Services:869982110100016:02100022:1-Dec-23:tangentreports@tangentsolutionsinc.com
+UBX - Weliam Jhay Motor:869982110100016:02100023:1-Dec-23:tangentreports@tangentsolutionsinc.com
+UBX - La Castellana Coop:869982110100016:02100024:1-Dec-23:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100025:20-Dec-23:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100026:2-Jan-24:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100027:20-Dec-23:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100028:22-Dec-23:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100029:21-Dec-23:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100030:18-Jan-24:tangentreports@tangentsolutionsinc.com
+OPTIMUM EXCHANGE REMIT INC.:869982110100016:02100031:18-Dec-24:tangentreports@tangentsolutionsinc.com
+UBX - 7MM Pawnshop:869982110100016:02100032:4-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - RURAL BANK OF MONTALBAN, INC.:869982110100016:02100033:4-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - LUZON:869982110100016:02100034:16-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX -  VISAYAS:869982110100016:02100035:16-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - MINDANAO 1:869982110100016:02100036:16-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - MINDANAO 2:869982110100016:02100037:16-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - Lordhen Apartment:869982110100016:02100038:19-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - SilverNet Enterprises:869982110100016:02100039:19-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - Northern Sibuyan Enterprise:869982110100016:02100040:22-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - Juvic Sari Sari Store:869982110100016:02100041:22-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - Philippines Corporation:869982110100016:02100042:22-Jan-24:tangentreports@tangentsolutionsinc.com
+UBX - Egan Cyber Cafe:869982110100016:02100050:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - RNP:869982110100016:02100043:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - VELEZ:869982110100016:02100044:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - LIBONA:869982110100016:02100045:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - VALENCIA:869982110100016:02100046:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - KITAOTAO:869982110100016:02100047:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - BUTUAN:869982110100016:02100048:2-Feb-24:tangentreports@tangentsolutionsinc.com
+SOUTHBANK INC. - PAGADIAN:869982110100016:02100049:2-Feb-24:tangentreports@tangentsolutionsinc.com
+UBX-NEPTUNE AQUARIUS LAUNDRY SHOP:869982110100016:02100051:1-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX-RK GENERAL MERCHANDISE:869982110100016:02100052:1-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX-Ong Siok Dian Store:869982110100016:02100053:19-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX - DEXPRESS GRILL HOUSE:869982110100016:02100054:27-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX - SUPERIOR AUTO PARTS:869982110100016:02100054:27-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX - CJL HARDWARE AND CONSTRUCTION SUPPLY:869982110100016:0210005627-Mar-24:tangentreports@tangentsolutionsinc.com
+UBX - HJ&J BILLS PAYMENT AND REMITTANCE SERVICES:869982110100016:02100057:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - WISEKART BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100058:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - AM 9 BUSINESS CENTER:869982110100016:02100059:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - VELAYO BILLS PAYMENT AND REMITTANCE SERVICES:869982110100016:02100060:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - 159 PERA PADALA AND PARCEL HANDLING SERVICES:869982110100016:02100061:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - BENDEL BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100062:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - BETHR BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100063:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - DEORO BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100064:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - GOLAE PAYMENT CENTER:869982110100016:02100065:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - GRACED BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100066:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - GREEN VILLE BILLS PAYMENT AND REMITTANCE SERVICES:869982110100016:02100067:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - J & J. II BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100068:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - MEA CHEN BILLS PAYMENT AND REMITTANCE SERVICES:869982110100016:02100069:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - MLC FASTLINK SERVICES PAYMENT CENTER:869982110100016:02100070:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - RNPN BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100071:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - SAN LUIS BILLS PAYMENT & REMITTANCE CENTER:869982110100016:02100072:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - SG REMITTANCE SERVICES:869982110100016:02100073:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - MARJ BILLS PAYMENTS AND REMITTANCE CENTER:869982110100016:02100074:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - NALAKA BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100075:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - R&L EXPRESSPAY BILLS PAYMENT AND REMITTANCE CENTER:869982110100016:02100076:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - MGC BILLS PAYMENT CENTER:869982110100016:02100077:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - AGONCILLO BILLS PAYMENT AND REMITTANCE SERVICES:869982110100016:02100078:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - EXP - RAZHH BILLS PAYMENT CENTER:869982110100016:02100079:25-Apr-24:tangentreports@tangentsolutionsinc.com
+UBX - RGA BUSINESS CENTER:869982110100016:02100080:25-Apr-24:tangentreports@tangentsolutionsinc.com
+
+
